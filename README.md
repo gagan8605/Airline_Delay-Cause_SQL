@@ -20,7 +20,7 @@ This project analyzes flight delay data using SQL to uncover insights about:
 - Ranked airlines by on-time performance.
 
 ## 🚀 Tools Used
-- **SQL (MySQL Workbench / Any SQL IDE)**
+- **SQL (MySQL Workbench)**
 - Dataset: `airline_delay`
 
 ---
